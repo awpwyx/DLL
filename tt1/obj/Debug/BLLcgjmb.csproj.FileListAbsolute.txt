@@ -1,0 +1,5 @@
+E:\Kingdee\K3Cloud\WebSite\bin\BLLcgjmb.dll
+E:\Kingdee\K3Cloud\WebSite\bin\BLLcgjmb.pdb
+E:\VS工程\tt1 - 宝来集团开发 采购价目表根据表头 给表体赋值\tt1\obj\Debug\BLLcgjmb.csproj.CoreCompileInputs.cache
+E:\VS工程\tt1 - 宝来集团开发 采购价目表根据表头 给表体赋值\tt1\obj\Debug\BLLcgjmb.dll
+E:\VS工程\tt1 - 宝来集团开发 采购价目表根据表头 给表体赋值\tt1\obj\Debug\BLLcgjmb.pdb

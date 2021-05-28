@@ -1,0 +1,3 @@
+C:\Users\awpwy\Desktop\DLL\20200826DLL\tt1\obj\Debug\MDYHDSCH1.csproj.CoreCompileInputs.cache
+C:\Users\awpwy\Desktop\DLL\20200826DLL\tt1\obj\Debug\MDYHDSCH1.dll
+C:\Users\awpwy\Desktop\DLL\20200826DLL\tt1\obj\Debug\MDYHDSCH1.pdb

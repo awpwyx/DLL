@@ -1,0 +1,4 @@
+C:\Users\awpwy\Desktop\20200521DLL\DATA_TEST\obj\Debug\DATA_TEST.csprojAssemblyReference.cache
+C:\Users\awpwy\Desktop\20200521DLL\DATA_TEST\obj\Debug\DATA_TEST.Properties.Resources.resources
+C:\Users\awpwy\Desktop\20200521DLL\DATA_TEST\obj\Debug\DATA_TEST.csproj.GenerateResource.cache
+C:\Users\awpwy\Desktop\20200521DLL\DATA_TEST\obj\Debug\DATA_TEST.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+E:\Kingdee\K3Cloud\WebSite\bin\tt1.dll
+E:\Kingdee\K3Cloud\WebSite\bin\tt1.pdb
+E:\VS工程\tt1\tt1\obj\Debug\tt1.csproj.CoreCompileInputs.cache
+E:\VS工程\tt1\tt1\obj\Debug\tt1.dll
+E:\VS工程\tt1\tt1\obj\Debug\tt1.pdb

@@ -1,0 +1,40 @@
+E:\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.dll
+E:\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.pdb
+E:\津乐园 插件\tt1 - 门店要货单 点击保存删除单据体申请数量为0的行\tt1\obj\Debug\MDYHDSCH0.csproj.CoreCompileInputs.cache
+E:\津乐园 插件\tt1 - 门店要货单 点击保存删除单据体申请数量为0的行\tt1\obj\Debug\MDYHDSCH0.dll
+E:\津乐园 插件\tt1 - 门店要货单 点击保存删除单据体申请数量为0的行\tt1\obj\Debug\MDYHDSCH0.pdb
+E:\津乐园 插件\tt1 - 门店要货单 点击保存删除单据体申请数量为0的行\tt1\obj\Debug\MDYHDSCH0.csprojAssemblyReference.cache
+C:\Users\swand\Desktop\tt1 - 门店要货单 点击保存删除单据体申请数量为0的行\tt1\obj\Debug\MDYHDSCH0.csprojResolveAssemblyReference.cache
+C:\Users\swand\Desktop\tt1 - 门店要货单 点击保存删除单据体申请数量为0的行\tt1\obj\Debug\MDYHDSCH0.dll
+C:\Users\swand\Desktop\tt1 - 门店要货单 点击保存删除单据体申请数量为0的行\tt1\obj\Debug\MDYHDSCH0.pdb
+D:\cloud\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.dll
+D:\cloud\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.pdb
+D:\cloud\新建文件夹 (2)\20200521DLL\tt1\obj\Debug\MDYHDSCH0.csproj.CoreCompileInputs.cache
+D:\cloud\新建文件夹 (2)\20200521DLL\tt1\obj\Debug\MDYHDSCH0.csproj.CopyComplete
+D:\cloud\新建文件夹 (2)\20200521DLL\tt1\obj\Debug\MDYHDSCH0.dll
+D:\cloud\新建文件夹 (2)\20200521DLL\tt1\obj\Debug\MDYHDSCH0.pdb
+D:\cloud\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.dll.config
+D:\cloud\新建文件夹 (2)\20200521DLL\tt1\obj\Debug\MDYHDSCH0.csprojAssemblyReference.cache
+C:\Users\awpwy\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.dll.config
+C:\Users\awpwy\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.dll
+C:\Users\awpwy\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.pdb
+C:\Users\awpwy\Desktop\20200521DLL\tt1\obj\Debug\MDYHDSCH0.csproj.CoreCompileInputs.cache
+C:\Users\awpwy\Desktop\20200521DLL\tt1\obj\Debug\MDYHDSCH0.csproj.CopyComplete
+C:\Users\awpwy\Desktop\20200521DLL\tt1\obj\Debug\MDYHDSCH0.dll
+C:\Users\awpwy\Desktop\20200521DLL\tt1\obj\Debug\MDYHDSCH0.pdb
+C:\Users\swand\Desktop\20200521DLL\tt1\obj\Debug\MDYHDSCH0.csproj.CoreCompileInputs.cache
+C:\Users\swand\Desktop\20200521DLL\tt1\obj\Debug\MDYHDSCH0.dll
+C:\Users\swand\Desktop\20200521DLL\tt1\obj\Debug\MDYHDSCH0.pdb
+C:\Users\swand\Desktop\20200521DLL\tt1\obj\Debug\MDYHDSCH0.csproj.CopyComplete
+C:\Users\swand\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.dll
+C:\Users\swand\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.pdb
+C:\Users\swand\Desktop\20200826DLL\tt1\obj\Debug\MDYHDSCH0.csproj.CoreCompileInputs.cache
+C:\Users\swand\Desktop\20200826DLL\tt1\obj\Debug\MDYHDSCH0.csproj.CopyComplete
+C:\Users\swand\Desktop\20200826DLL\tt1\obj\Debug\MDYHDSCH0.dll
+C:\Users\swand\Desktop\20200826DLL\tt1\obj\Debug\MDYHDSCH0.pdb
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\MDYHDSCH0.pdb
+C:\Users\awpwy\Desktop\DLL\20200826DLL\tt1\obj\Debug\MDYHDSCH0.csprojAssemblyReference.cache
+C:\Users\awpwy\Desktop\DLL\20200826DLL\tt1\obj\Debug\MDYHDSCH0.csproj.CoreCompileInputs.cache
+C:\Users\awpwy\Desktop\DLL\20200826DLL\tt1\obj\Debug\MDYHDSCH0.dll
+C:\Users\awpwy\Desktop\DLL\20200826DLL\tt1\obj\Debug\MDYHDSCH0.pdb
